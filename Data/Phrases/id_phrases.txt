@@ -1,0 +1,4 @@
+1	Lions eat gazelles
+2	Lions eat antelopes
+3	Animals eat meat	
+4	Hyena eat gazelles

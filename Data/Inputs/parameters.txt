@@ -1,0 +1,6 @@
+sujet:2129165
+predicats:eat
+objet:
+desambiguisation:1
+modele:2
+incertitude:1.0

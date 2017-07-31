@@ -1,0 +1,2 @@
+1	lion	gazelle
+2	lion	antelope
