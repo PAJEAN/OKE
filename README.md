@@ -23,9 +23,6 @@ MUD.py requires:
     |-- Phrases: This folder has two main files. id_phrases.txt indexes your sentences --> #ID\tsentence1\r and sources.reverb indexes sources of your sentences --> #ID\tSource1|Source2\r. Finally, you have to use sources.py to count the support of each relation.
   + CSS (Boostraps)
 
-#### Scripts description ####
-
-
 #### Run ####
  + python run_server.py
  + localhost:8888/index.py
