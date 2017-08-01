@@ -9,7 +9,7 @@ Co-authors:
  + Patrice Bellot
  + Jacky Montmain
 
-OKE (Open Knowledge Extraction) allows to infer new relations from extracted relations. It is based on a syntactic and taxonomic implications and a set of rules to make a partial order on relations. This last one allows to compute criterias on relations (belief and specificity) to collect relevant relations through selection models.
+OKE (Open Knowledge Extraction) allows to infer new relations from extracted relations. It is based on a syntactic and taxonomic implications and a set of rules to make a partial order on relations. This last one allows to compute criterias on relations (belief and specificity) to evaluate relevant relations through selection models.
 
 #### Dependences ####
 MUD.py requires:
