@@ -19,11 +19,11 @@ MUD.py requires:
 #### Folders ####
   + Data
     
-    |-- Relations -- predicate(suj, obj) --
+    +Relations -- predicate(suj, obj) --
       
-      |-- Predicats: You need to disinguish your relations with predicates. Each predicate has its own file. Format --> #ID\tSuj_wsd\tObj_wsd\tSuj\tObj with suj_wsd disambiguised suject of the relation (resp. obj_wsd) and suj the subject of the relation (resp. obj).
+      + Predicats: You need to disinguish your relations with predicates. Each predicate has its own file. Format --> #ID\tSuj_wsd\tObj_wsd\tSuj\tObj with suj_wsd disambiguised suject of the relation (resp. obj_wsd) and suj the subject of the relation (resp. obj).
     
-    |-- Phrases: This folder has two main files. id_phrases.txt indexes your sentences --> #ID\tsentence1\r and sources.reverb indexes sources of your sentences --> #ID\tSource1|Source2\r. Finally, you have to use sources.py to count the support of each relation.
+    + Phrases: This folder has two main files. id_phrases.txt indexes your sentences --> #ID\tsentence1\r and sources.reverb indexes sources of your sentences --> #ID\tSource1|Source2\r. Finally, you have to use sources.py to count the support of each relation.
   
   + CSS (Boostraps)
 
