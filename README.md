@@ -15,6 +15,7 @@ OKE (Open Knowledge Extraction) allows to infer new relations from extracted rel
 MUD.py requires:
  + Python 2.7
  + CGI librairies (BaseHTTPServer et CGIHTTPServer)
+ + pywsd: https://github.com/alvations/pywsd
 
 #### Folders ####
   + Data
