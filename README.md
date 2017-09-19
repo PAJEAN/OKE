@@ -12,7 +12,7 @@ Co-authors:
 OKE (Open Knowledge Extraction) allows to infer new relations from extracted relations. It is based on a syntactic and taxonomic implications and a set of rules to make a partial order on relations. This last one allows to compute criterias on relations (belief and specificity) to evaluate relevant relations through selection models.
 
 #### Dependences ####
-MUD.py requires:
+OKE requires:
  + Python 2.7
  + CGI librairies (BaseHTTPServer et CGIHTTPServer)
  + pywsd: https://github.com/alvations/pywsd
